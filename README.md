@@ -1,2 +1,2 @@
 # google-homepage
-Project: HTML/CSS
+HTML/CSS
